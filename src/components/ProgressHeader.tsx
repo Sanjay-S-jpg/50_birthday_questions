@@ -25,12 +25,12 @@ export const ProgressHeader = ({
 
       <div className="space-y-2 animate-bounce-in">
         <h1 className="text-4xl font-bold bg-gradient-romantic bg-clip-text text-transparent animate-pulse-glow">
-          Our lil Story
+          THINGS TO REMEMBER!
         </h1>
         <div className="flex items-center justify-center space-x-2">
           <Heart className="w-5 h-5 text-primary animate-heart-beat" />
           <p className="text-muted-foreground text-lg">
-            50 Questions to Answer! 
+            10 Questions to Answer! 
           </p>
           <Heart className="w-5 h-5 text-primary animate-heart-beat" style={{ animationDelay: '0.5s' }} />
         </div>

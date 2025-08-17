@@ -48,7 +48,7 @@ export const useProgress = () => {
 
   const resetProgress = () => {
     setProgress({
-      startDate: "2025-08-08",
+      startDate: "2025-08-18",
       answeredQuestions: []
     });
   };
