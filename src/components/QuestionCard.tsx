@@ -146,9 +146,9 @@ export const QuestionCard = ({
                   Not quite right. Try again! 
                 </p>
                 <div className="flex justify-center space-x-1 mt-1">
-                  <Heart className="w-3 h-3 text-destructive animate-wiggle" />
-                  <Heart className="w-3 h-3 text-destructive animate-wiggle" style={{ animationDelay: '0.1s' }} />
-                  <Heart className="w-3 h-3 text-destructive animate-wiggle" style={{ animationDelay: '0.2s' }} />
+                  <Zap className="w-3 h-3 text-destructive animate-wiggle" />
+                  <Zap className="w-3 h-3 text-destructive animate-wiggle" style={{ animationDelay: '0.1s' }} />
+                  <Zap className="w-3 h-3 text-destructive animate-wiggle" style={{ animationDelay: '0.2s' }} />
                 </div>
               </div>
             )}
